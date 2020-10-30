@@ -26,7 +26,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'devise'
 gem 'omniauth-facebook'
 gem 'figaro'
-
+gem 'bullet', group: 'development'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
